@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #000000;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+h1 {
+  color: #f38601e7;
+  text-align: center;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+h3 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+.call-to-action {
+  background-color: #3c3d3e;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid; 
+}
+
+.latest-updates ul {
+  padding-left: 20px;
+}
+
+.event-roadmap ul {
+  padding-left: 20px;
+}
+
+.event-roadmap h3 {
+  color: #ffffff;
+}
+
+.visit-site-button {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background-color: #914040;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
